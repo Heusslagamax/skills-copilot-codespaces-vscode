@@ -1,0 +1,4 @@
+.env
+log.txt
+seen_albums.txt
+__pycache__/
